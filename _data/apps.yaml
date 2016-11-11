@@ -380,3 +380,10 @@
   icon: https://raw.githubusercontent.com/bungandy/tingbot-ping/master/Ping.tingapp/icon.png
   github_url: https://github.com/bungandy/tingbot-ping
   zip_url: https://github.com/bungandy/tingbot-ping/archive/v0.1.zip
+  
+- name: Tingbot shutdown
+  creator: Waves of intelligence
+  version: v0
+  icon: https://raw.githubusercontent.com/waves-of-intelligence/Tingbot-shutdown/master/icon.png
+  github_url: https://github.com/waves-of-intelligence/Tingbot-shutdown
+  zip_url: https://github.com/waves-of-intelligence/Tingbot-shutdown/archive/master.zip
